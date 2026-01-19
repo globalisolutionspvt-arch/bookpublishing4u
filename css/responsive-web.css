@@ -1,0 +1,429 @@
+@media (max-width: 1400px){
+
+
+    .bi-cta-2:after {
+        right: 0;
+        background-size: 100%;
+        height: 390px;
+    }
+    .cta_vec_img_bi2 {
+        left: -120px !important;
+    }
+
+    .cta_vec_img_bi1{
+        left: -30px !important;
+    }
+    .banner_form_m_bi {
+        width: auto;
+        height: auto;
+        margin: -110px 0 0;
+        left: 0;
+    }
+    .banner_form_m{
+        background-image: url(../images/page/child-banner-form.png);
+        background-size: 110%;
+        background-position: center top;
+        width: 100%;
+        padding: 0px 100px 40px;
+        margin: -80px -90px -240px 0px;
+        float: right;
+        height: 650px;
+        background-repeat: no-repeat;
+        position: relative;
+        left: -120px;
+        top: -30px;
+    }
+
+    .banner_form_m:before{
+        content:"";
+        background-image: url(../images/page/child-banner-vec-img3.png);
+        background-repeat: no-repeat;
+        position:absolute;
+        width: 147px;
+        height: 339px;
+        left: -65px;
+        bottom: 100px;
+        background-size: 90%;
+    }
+
+    .banner_form_m:after{
+        content:"";
+        background-image: url(../images/page/child-banner-vec-img4.png);
+        background-repeat: no-repeat;
+        position:absolute;
+        width: 199px;
+        height: 276px;
+        right: -110px;
+        bottom: 170px;
+        background-size: 80%;
+    }
+
+    .banner_form_m_book_cover {
+        width: 620px;
+        height: 575px;
+        background-size: 100%;
+        margin: -40px 0 0;
+        position: relative;
+        left: -40px;
+    }
+
+    .banner_form_m_book_cover:before {
+        width: 227px;
+        height: 465px;
+        left: -55px;
+        top: 15px;
+        z-index: -1;
+        background-size: 80%;
+    }
+
+    .banner_form_m_bi:before {
+        top: 43px;
+        width: 300px;
+        height: 465px;
+        z-index: -1;
+        background-size: auto;
+        left: -244px;
+    }
+
+    .banner_form_m_book_cover:after {
+        width: 215px;
+        height: 351px;
+        right: -54px;
+        bottom: 147px;
+        z-index: -1;
+        background-size: 85%;
+    }
+
+    .banner_form_m_book_cover h3 {
+        font-size: 20px;
+        font-family: 'Conv_GraphikBold' !important;
+        margin: 15px 0 5px;
+    }
+
+    .banner_form_m_book_cover input.form-control {
+        height: 44px;
+    }
+
+    .banner_form_m_book_cover textarea.form-control{
+        height: 90px;
+    }
+
+    .banner_form_m_bi {
+        width: 550px;
+        height: 605px;
+        background-size: 100%;
+        margin: -100px 0 0;
+        position: relative;
+        left: 30px;
+    }
+
+    .ebok-pck-img .form_sec_box {
+            background: #f7d208;
+            padding: 35px 40px 35px;
+        }
+
+    .cta-chil-1:after {
+        background-size: 85%;
+        top: -90px;
+    }
+
+}
+
+@media (max-width: 767px){
+    
+    /*child-book-illus*/
+    .banner_form_m form {
+        padding: 110px 0 0;
+    }
+    .banner_form_m h3 {
+        font-size: 21px;
+        margin: 0 0 20px;
+    }
+    .banner_boxes_mm .title_m {
+        font-size: 34px;
+        text-align: center !important;
+    }
+    h1.title_m.clr_black_m.fadeInUp {
+    text-align: center !important;
+
+}
+
+    .banner_boxes_mm .title_m span {
+        margin: 0;
+    }
+
+    .banner_boxes_mm .title_m br {
+        display: none;
+    }
+
+    .banner_boxes_mm .title_m b {
+        margin: 0;
+    }
+
+    .banner_text_mm h1:before {
+        top: -14px;
+    }
+
+    .child_banner {
+        padding-bottom: 20px;
+        padding-top: 115px;
+        min-height: inherit;
+        height: auto;
+        background-color: #fff;
+    }
+
+    .banner_form_m {padding: 0 20px;margin: 0;height: auto;left: 0;top: 0;background-size: 180%;}
+
+    .banner_form_m:after {
+        display: none;
+    }
+
+    .banner_form_m:before {
+        display: none;
+    }
+
+    .serv_inner_sec_m_boxes {
+        flex-direction: column;
+    }
+
+    .serv_inner_sec_m_boxes .illustration_services_box img {
+        width: 80%;
+        margin: 0 auto;
+        display: table;
+        margin-bottom: 20px;
+    }
+
+    .banner_text_mm p {
+        text-align: center;
+    }
+
+    .illustration_services_box h2 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .illustration_services_box h2 br {
+    }
+
+    .illustration_services_box p.para_m.clr_grey_m {
+        text-align: center;
+    }
+
+    .illus-tab-li ul {padding-left: 0;}
+
+    .title_m {
+        text-align: center;
+    }
+
+    .para_m {
+        text-align: center;
+    }
+
+    .section-title img {
+        width: 100%;
+        margin: 10px 0 20px;
+    }
+
+    .list-process ol {
+    }
+
+    .testimonails_sec_m_slider {
+    margin: 50px 0 0 0%;
+    width: 100% !important;
+    padding: 0 10px;
+    }
+    section.testimonails_sec_m{
+        overflow: hidden;
+    }
+    .list-process .btn.btn-started.poupBtn {
+        text-align: center;
+        margin: 0 auto;
+        display: table;
+    }
+
+    img.cta_vec_img2 {
+        display: none;
+    }
+
+    img.cta_vec_img1 {
+        display: none;
+    }
+    /*child-book-illus*/
+
+    /*book_cover_banner*/
+
+    .book_cover_banner {
+        background-image: url(../images/page/cook-cover-banner-bg.html);
+        background-size: cover;
+        background-position: bottom left;
+        width: 100%;
+        min-height: 785px;
+        align-items: center;
+        /* display: grid; */
+        position: relative;
+        padding: 130px 0 0;
+        background-repeat: no-repeat;
+        z-index: 0;
+    }
+
+    .banner_form_m_book_cover:after,
+    .banner_form_m_book_cover:before{
+        display: none;
+    }
+
+    .banner_form_m_book_cover input.form-control {
+        height: 40px;
+    } 
+
+    .banner_form_m_book_cover .form-group{
+        margin-bottom: 10px;
+    }  
+
+    .banner_form_m_book_cover h3 {
+        font-size: 17px;
+        font-family: 'Conv_GraphikBold' !important;
+        margin: 0 0 0px;
+        width: 100%;
+    }
+
+    .banner_form_m_book_cover textarea.form-control {
+        height: 50px;
+    }
+
+    .banner_form_m_book_cover {
+        width: 450px;
+        height: 555px;
+        background-size: 100%;
+        margin: 50px auto 0;
+        position: relative;
+        left: -15%;
+    }
+
+    .banner_form_m_book_cover form {
+        width: auto;
+        margin: auto;
+        padding: 15px 95px 0;
+    }
+    .serv_inner_sec_m_book_cover {
+        margin: -120px 0 0;
+    }
+
+    .illustration_services_box.wow.bounceInRight.animated h2 br {
+        display: none;
+    }
+
+    .para_m {
+        font-size: 15px;
+    }
+
+    .list-process ol li {
+        font-size: 15px;
+    }
+
+    .ftr-col-form button#signupBtn {
+        text-align: center;
+        margin: auto;
+    }
+
+    .slef_published_m_box p {
+        font-size: 15px;
+    }
+
+    section.footer .col-sm-3 {
+        width: 100%;
+        float: left;
+        text-align: left;
+    }
+
+    .ftr-col-1 img {
+        width: 40%;
+        margin: auto;
+        display: table;
+    }
+
+    .ftr-col-1-st ul {
+        display: flex;
+        padding-top: 20px;
+        justify-content: center;
+        margin: 0 auto 30px;
+    }
+
+    .ftr-col-form {
+        text-align: center;
+        margin: auto;
+        display: table;
+        width: 90%;
+    }
+
+    .footer ul li p {
+        font-size: 13px;
+    }
+
+    .ftr-col.ftr-col-1 {
+        text-align: center;
+    }
+
+    .ftr-col.ftr-col-inner1 {
+        padding-top: 7px;
+        text-align: center;
+    }
+
+    .inner_banner.book_cover_banner {
+        overflow: hidden;
+    }
+
+    .btn_banner {
+        margin: 60px auto 0;
+        text-align: center;
+    }
+
+    .banner_form_m_bi form {
+        width: 300px;
+        margin: auto;
+        padding: 55px 15px 0 15px;
+    }
+
+    .banner_form_m_book_cover h3 span {
+        font-size: 28px;
+        font-family: 'Conv_GraphikBold' !important;
+        margin: 0 auto 10px;
+        color: #f7931e;
+        align-content: center;
+        display: table;
+    }
+
+    .banner_form_m_bi {
+        width: 100%;
+        height: 425px;
+        background-size: 100%;
+        margin: 50px auto 0;
+        position: relative;
+        left: 0;
+        right: 0;
+    }
+
+    .serv_inner_sec_m_bi {
+        padding-top: 20px;
+    }
+
+    .book_cover_banner .banner_text_mm h1:before {
+        height: 4px;
+        position: absolute;
+        top: 30px;
+        z-index: -1;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+    .illustration_services_box h2 br {
+        display: none;
+    }
+    .illu-tb-child-nb ul li {
+        font-size: 15px;
+    }
+
+    .banner_text_mm h1:before {
+        display: none;
+    }
+}
